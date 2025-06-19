@@ -17,7 +17,7 @@ import (
 
 	"golang.org/x/sys/windows"
 
-	"github.com/nettier/wireguard/conn/winrio"
+	"github.com/nettier/wireguard-go/conn/winrio"
 )
 
 const (

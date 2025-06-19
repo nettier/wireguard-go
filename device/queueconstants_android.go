@@ -5,7 +5,7 @@
 
 package device
 
-import "github.com/nettier/wireguard/conn"
+import "github.com/nettier/wireguard-go/conn"
 
 /* Reduce memory consumption for Android */
 

@@ -1,4 +1,4 @@
-module github.com/nettier/wireguard
+module github.com/nettier/wireguard-go
 
 go 1.23.2
 

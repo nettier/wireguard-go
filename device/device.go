@@ -11,10 +11,10 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/nettier/wireguard/conn"
-	"github.com/nettier/wireguard/ratelimiter"
-	"github.com/nettier/wireguard/rwcancel"
-	"github.com/nettier/wireguard/tun"
+	"github.com/nettier/wireguard-go/conn"
+	"github.com/nettier/wireguard-go/ratelimiter"
+	"github.com/nettier/wireguard-go/rwcancel"
+	"github.com/nettier/wireguard-go/tun"
 )
 
 type Device struct {

@@ -20,10 +20,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/nettier/wireguard/conn"
-	"github.com/nettier/wireguard/conn/bindtest"
-	"github.com/nettier/wireguard/tun"
-	"github.com/nettier/wireguard/tun/tuntest"
+	"github.com/nettier/wireguard-go/conn"
+	"github.com/nettier/wireguard-go/conn/bindtest"
+	"github.com/nettier/wireguard-go/tun"
+	"github.com/nettier/wireguard-go/tun/tuntest"
 )
 
 // uapiCfg returns a string that contains cfg formatted use with IpcSet.
